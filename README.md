@@ -248,6 +248,12 @@ A curated list of resources for Chief Security Officers and aspiring security le
 
 This list is maintained as a community resource. Contributions are welcome!
 
+## Visitors
+
+![Visitor Count](https://shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https://api.countapi.xyz/get/AustinTI/Awesome-CSO)
+![Hits](https://hits.dwyl.com/AustinTI/Awesome-CSO.svg?style=flat-square)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=AustinTI.Awesome-CSO)
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
